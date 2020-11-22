@@ -1,28 +1,29 @@
-## Indoor Custom-size Furniture Layouts Dataset
-# Overview
+# Indoor Custom-size Furniture Layouts Dataset
+## Overview
 This repository contains a dataset of indoor custom-size furniture layouts together with an end-to-end rendering image of the interior layout. This layout data is from designers at the real selling end.There are 60 professional designers who work with an industry-lever virtual tool to produce a variety of designs. Among these designs, part of them are sold to the proprietors for their interior decorations. We collect these designs at the selling end and provide 710,700 interior layouts. Each sample of the layout has the following representation including the categories of the furniture in one room, the position (x,y) and size (height, width, length) of each furniture, the position (x,y) and size (height, width, length) of the doors, windows, and walls in the room. Besides, the category of the finished furniture and customized furniture is given. For the customized furniture, the size (height, width, length) is the default size in the default layout. In the other layout of the same room, the size of the customized furniture is different. In particular, there are 2k samples of the layout for balcony, 22k samples of the layout for bedroom, 185k samples of the layout for kitchen, 400k samples of the layout for bathroom, 80k samples of the layout for living-dining room, 1.7k samples of the layout for study room, and 20k samples of the layout for tatami room. 
 
-# Sample1
+## Samples 
+### Sample 1
 The size of the custom cabinet and the size of the working desk is different for different layout of the same bedroom room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig1.png"/></p>
 
-# Sample2
+### Sample 2
 The size of the tatami is differentfor different layout of the same tatami room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig2.png"/></p>
 
-# Sample3
+### Sample 3
 The size of the bathroom cabinet, the bathtub is different for different layout of the same bathroom. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig3.png"/></p>
 
-# Sample4
+### Sample 4
 The size of the dining table, the sofa is different for different layout of the same living-ding-room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig4.png"/></p>
 
-# Sample5
+### Sample 5
 The size of the working desk, the bookcase is different for different layout of thre same study room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig5.png"/></p>
 
-# Sample6
+### Sample 6
 Other samples are shown.
 <p align="left"><img width="50%" src="figs/dataset-fig6.png"/></p>
 
