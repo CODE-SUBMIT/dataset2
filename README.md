@@ -63,5 +63,5 @@ You are required to give LCSF Co., Ltd. notice in advance of any press releases 
 
 5.Consent Form (sample)
 
-# A proposed model for the layout of the custom-size furniture, code and mode will be released soon:)
+# A proposed model for the layout of the custom-size furniture, code and model will be released soon:)
 <p align="left"><img width="50%" src="figs/dataset-fig7.png"/></p>
