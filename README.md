@@ -54,7 +54,7 @@ The data will be provided by downloading from the LCSF Dataset Web server.
 You are required to give LCSF Dataset Co., Ltd. notice in advance of any press releases or media interviews regarding research results.Please submit a report on publications at conferences and in journals every year in response to a request from the LCSF DATASET office.Before a private company employee joins the laboratory or your laboratory starts a new collaboration with a private company after signing the Consent Form, please consult with the LCSF dataset office well in advance.
 
 ## Application documents
-1.Application Form
+1.[Application Form](https://github.com/CODE-SUBMIT/video2)
 
 2.LCSF Dataset Terms of Use
 
