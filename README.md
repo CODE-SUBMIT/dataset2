@@ -5,21 +5,27 @@ This repository contains a dataset of indoor furniture layouts together with an 
 # Sample1
 The size of the custom cabinet and the size of the working desk is different for different layout of the same bedroom room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig1.png"/></p>
+
 # Sample2
 The size of the tatami is differentfor different layout of the same tatami room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig2.png"/></p>
+
 # Sample3
 The size of the bathroom cabinet, the bathtub is different for different layout of the same bathroom. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig3.png"/></p>
+
 # Sample4
 The size of the dining table, the sofa is different for different layout of the same living-ding-room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig4.png"/></p>
+
 # Sample5
 The size of the working desk, the bookcase is different for different layout of thre same study room. The size of the customized furniture changes according to the requirements of the customers.
 <p align="left"><img width="50%" src="figs/dataset-fig5.png"/></p>
+
 # Sample6
 Other samples are shown.
 <p align="left"><img width="50%" src="figs/dataset-fig6.png"/></p>
+
 # Update Information
 Overseas distribution began. (2020/11/16)
 
@@ -56,3 +62,6 @@ You are required to give LCSF Co., Ltd. notice in advance of any press releases 
 4.Terms of LCSF Dataset Service
 
 5.Consent Form (sample)
+
+# A proposed model for the layout of the custom-size furniture, code and mode will be released soon:)
+<p align="left"><img width="50%" src="figs/dataset-fig7.png"/></p>
