@@ -48,7 +48,11 @@ You are required to give LCSF Co., Ltd. notice in advance of any press releases 
 
 # Documents
 1.Application Form
+
 2.LCSF Dataset Terms of Use
+
 3.Handling of LCSF Dataset
+
 4.Terms of LCSF Dataset Service
+
 5.Consent Form (sample)
