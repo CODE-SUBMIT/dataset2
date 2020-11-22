@@ -65,10 +65,10 @@ You are required to give LCSF Dataset Co., Ltd. notice in advance of any press r
 5.Consent Form (sample)
 
 ## A proposed model architecture for the layout of the custom-size furniture (code and model will be released soon)
-<p align="left"><img width="50%" src="figs/dataset-fig7.png"/></p>
+<p align="left"><img width="80%" src="figs/dataset-fig7.png"/></p>
 
-## Update Information
+## Update information
 Overseas distribution began. (2020/11/16)
 
-## Contact Email
+## Contact email
 deepearthgo@gmail.com
