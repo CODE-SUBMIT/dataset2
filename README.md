@@ -49,9 +49,13 @@ Only researchers affiliated with a university or a public research institution c
 
 ## Application documents
 1.[Application Form](https://github.com/CODE-SUBMIT/dataset2/blob/main/application_LCSF_dataset.pdf)
+
 2.[LCSF Dataset Terms of Use](https://github.com/CODE-SUBMIT/dataset2/blob/main/LCSF%20Dataset%20Terms%20of%20Use.pdf)
+
 3.[Handling of LCSF Dataset](https://github.com/CODE-SUBMIT/dataset2/blob/main/Handling%20of%20LCSF%20Dataset%20LCSF%20Dataset%20Co.pdf)
+
 4.[Terms of LCSF Dataset Service](https://github.com/CODE-SUBMIT/dataset2/blob/main/Terms%20of%20LCSF%20Dataset%20Service.pdf)
+
 5.[Consent Form (sample)](https://github.com/CODE-SUBMIT/dataset2/blob/main/consent_lifull_homes_sample.pdf)
 
 ## Data provision
