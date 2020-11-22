@@ -6,7 +6,7 @@ Each layout sample contains the categories of the furniture in the room, the pos
 
 The dataset contains 200 balcony layouts, 22,000 bedroom layouts, 185,000 kitchen layouts, 400,000 bathroom layouts, 80,000 living-dining room layouts, 1700 study room layouts, and 20,000 tatami room layouts.
 
-## Samples 
+## Dataset samples 
 ### Sample 1
 The sizes of custom cabinet and working desk are different for different layouts of the same bedroom room. The size of the customized furniture changes according to the requirements of customers.
 <p align="left"><img width="50%" src="figs/dataset-fig1.png"/></p>
@@ -32,7 +32,7 @@ Other samples.
 <p align="left"><img width="50%" src="figs/dataset-fig6.png"/></p>
 
 ## User qualification
-Only researchers affiliated with a university or a public research institution can apply to use the dataset. Applications from those in a private company, etc. will not be accepted. Usage is limited to academic research purposes only. For more details, please email the IDR office in the contact section below.
+Only researchers affiliated with a university or a public research institution can apply to use the dataset. Applications from those in a private company, etc. will not be accepted. Usage is limited to academic research purposes only. For more details, please email the LCSF dataset office in the contact section below.
 
 ## Application procedure
 1.Please read the Layout of Custom-size Furniture Dataset Terms of Use，the Handling of LCSF Dataset and the Terms of LCSF Dataset Service carefully and, confirm that they are acceptable to you (and your organization). Fill out the Application Form following the items below: a. An application should be made for each user group such as a laboratory in a university, and the applicant should be a principal investigator in the group, e.g., a professor at a university or a head researcher at a research institution. b.The signer of the Consent Form should be a person authorized to sign the contract on behalf of your organization (typically, a dean of a school or higher for universities). Please consult with your administrative section about the qualified signer beforehand and enter formal information in full for the Signer as to be printed in the Consent Form. c."Research group members" are restricted to the researchers and students belonging to the abovementioned user group and doing research under the supervision of the applicant. If someone belonging to a different organization or a separate laboratory, even in joint research, will use the data, a separate application should be made.
