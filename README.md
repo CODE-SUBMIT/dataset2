@@ -54,15 +54,15 @@ The data will be provided by downloading from the LCSF Dataset Web server.
 You are required to give LCSF Dataset Co., Ltd. notice in advance of any press releases or media interviews regarding research results.Please submit a report on publications at conferences and in journals every year in response to a request from the LCSF DATASET office.Before a private company employee joins the laboratory or your laboratory starts a new collaboration with a private company after signing the Consent Form, please consult with the LCSF dataset office well in advance.
 
 ## Application documents
-1.[Application Form](https://github.com/CODE-SUBMIT/video2)
+1.[Application Form](https://github.com/CODE-SUBMIT/dataset2/blob/main/application_LCSF_dataset.pdf)
 
-2.LCSF Dataset Terms of Use
+2.[LCSF Dataset Terms of Use](https://github.com/CODE-SUBMIT/dataset2/blob/main/LCSF%20Dataset%20Terms%20of%20Use.pdf)
 
-3.Handling of LCSF Dataset
+3.[Handling of LCSF Dataset](https://github.com/CODE-SUBMIT/dataset2/blob/main/Handling%20of%20LCSF%20Dataset%20LCSF%20Dataset%20Co.pdf)
 
-4.Terms of LCSF Dataset Service
+4.[Terms of LCSF Dataset Service](https://github.com/CODE-SUBMIT/dataset2/blob/main/Terms%20of%20LCSF%20Dataset%20Service.pdf)
 
-5.Consent Form (sample)
+5.[Consent Form (sample)](https://github.com/CODE-SUBMIT/dataset2/blob/main/consent_lifull_homes_sample.pdf)
 
 ## A proposed model architecture for the layout of the custom-size furniture (code and model will be released soon)
 <p align="left"><img width="80%" src="figs/dataset-fig7.png"/></p>
