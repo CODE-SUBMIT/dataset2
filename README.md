@@ -31,10 +31,10 @@ The size of working desk and bookcase are different for different layouts of the
 Other samples.
 <p align="left"><img width="50%" src="figs/dataset-fig6.png"/></p>
 
-## User Qualification
+## User qualification
 Only researchers affiliated with a university or a public research institution can apply to use the dataset. Applications from those in a private company, etc. will not be accepted. Usage is limited to academic research purposes only. For more details, please email the IDR office in the contact section below.
 
-## Application
+## Application procedure
 1.Please read the Layout of Custom-size Furniture Dataset Terms of Use，the Handling of LCSF Dataset and the Terms of LCSF Dataset Service carefully and, confirm that they are acceptable to you (and your organization). Fill out the Application Form following the items below: a. An application should be made for each user group such as a laboratory in a university, and the applicant should be a principal investigator in the group, e.g., a professor at a university or a head researcher at a research institution. b.The signer of the Consent Form should be a person authorized to sign the contract on behalf of your organization (typically, a dean of a school or higher for universities). Please consult with your administrative section about the qualified signer beforehand and enter formal information in full for the Signer as to be printed in the Consent Form. c."Research group members" are restricted to the researchers and students belonging to the abovementioned user group and doing research under the supervision of the applicant. If someone belonging to a different organization or a separate laboratory, even in joint research, will use the data, a separate application should be made.
 
 2.Please send the application form as an email attachment to the LCSF dataset office in the contact section. a. The subject of the email should be "Application for the LCSF Dataset (XXXX University)." If the subject is not appropriate, the email may be discarded without its content being reviewed. b.When applying for other datasets at the same time, please send each application as a separate email. c.Please note that your application will be forwarded to LCSF Dataset Co., Ltd. and will be used to judge qualification, prepare the Consent Form, and manage users.d.If a member of your laboratory is working for a specific company and/or if your laboratory has a close connection with a specific company, e.g. doing a joint research project, you may not be granted approval to use the dataset depending on its situation and/or its relation to the research you are going to do using the dataset. The IDR office may approach you for more information if required.
@@ -47,22 +47,18 @@ Only researchers affiliated with a university or a public research institution c
 
 6.The high-resolution layout rendering image data will be provided if LCSF dataset Co., Ltd. allows it to be used for your purpose. To apply for use, after being provided with the LCSF dataset, follow the instructions posted on the data download site.
 
+## Application documents
+1.[Application Form](https://github.com/CODE-SUBMIT/dataset2/blob/main/application_LCSF_dataset.pdf)
+2.[LCSF Dataset Terms of Use](https://github.com/CODE-SUBMIT/dataset2/blob/main/LCSF%20Dataset%20Terms%20of%20Use.pdf)
+3.[Handling of LCSF Dataset](https://github.com/CODE-SUBMIT/dataset2/blob/main/Handling%20of%20LCSF%20Dataset%20LCSF%20Dataset%20Co.pdf)
+4.[Terms of LCSF Dataset Service](https://github.com/CODE-SUBMIT/dataset2/blob/main/Terms%20of%20LCSF%20Dataset%20Service.pdf)
+5.[Consent Form (sample)](https://github.com/CODE-SUBMIT/dataset2/blob/main/consent_lifull_homes_sample.pdf)
+
 ## Data provision
 The data will be provided by downloading from the LCSF dataset web server.
 
 ## Usage report, etc.
 You are required to give LCSF dataset Co., Ltd. notice in advance of any press releases or media interviews regarding research results. Please submit a report on publications at conferences and in journals every year in response to a request from the LCSF dataset office.Before a private company employee joins the laboratory or your laboratory starts a new collaboration with a private company after signing the Consent Form, please consult with the LCSF dataset office well in advance.
-
-## Application documents
-1.[Application Form](https://github.com/CODE-SUBMIT/dataset2/blob/main/application_LCSF_dataset.pdf)
-
-2.[LCSF Dataset Terms of Use](https://github.com/CODE-SUBMIT/dataset2/blob/main/LCSF%20Dataset%20Terms%20of%20Use.pdf)
-
-3.[Handling of LCSF Dataset](https://github.com/CODE-SUBMIT/dataset2/blob/main/Handling%20of%20LCSF%20Dataset%20LCSF%20Dataset%20Co.pdf)
-
-4.[Terms of LCSF Dataset Service](https://github.com/CODE-SUBMIT/dataset2/blob/main/Terms%20of%20LCSF%20Dataset%20Service.pdf)
-
-5.[Consent Form (sample)](https://github.com/CODE-SUBMIT/dataset2/blob/main/consent_lifull_homes_sample.pdf)
 
 ## A proposed model architecture for the layout of the custom-size furniture (code and model will be released soon)
 <p align="left"><img width="80%" src="figs/dataset-fig7.png"/></p>
